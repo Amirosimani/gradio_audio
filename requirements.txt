@@ -1,4 +1,4 @@
 gradio 
 speechrecognition
-openai-whisper
 soundfile
+google-cloud-speech

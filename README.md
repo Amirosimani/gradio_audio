@@ -1,3 +1,15 @@
+# Enable the Speech-to-Text API.
+
+1. Create a service account key and download the JSON key file.
+2. Set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the path of your JSON key file. For example:
+`export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your-service-account-file.json"`
+
+
+
+pyhon app.py
+
+
+-----------
 # dev locally on linux
 If the mic is not recognized, follow this steps
 
