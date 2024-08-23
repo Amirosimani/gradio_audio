@@ -1,3 +1,4 @@
 gradio 
 speechrecognition
-PyAudio
+openai-whisper
+soundfile
