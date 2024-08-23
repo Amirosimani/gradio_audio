@@ -21,7 +21,6 @@
 # # Launch the app
 # interface.launch()
 
-
 import gradio as gr
 from google.cloud import speech
 from google.api_core.exceptions import GoogleAPICallError, InvalidArgument
@@ -73,3 +72,4 @@ interface = gr.Interface(
 
 # Launch the app
 interface.launch()
+
